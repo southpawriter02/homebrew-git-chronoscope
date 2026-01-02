@@ -11,6 +11,7 @@ class GitChronoscope < Formula
   license "MIT"
   head "https://github.com/southpawriter02/git-chronoscope.git", branch: "main"
 
+  depends_on "pkg-config" => :build
   depends_on "python@3.11"
   depends_on "ffmpeg"
   depends_on "git"
