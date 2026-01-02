@@ -14,6 +14,10 @@ class GitChronoscope < Formula
   depends_on "python@3.11"
   depends_on "ffmpeg"
   depends_on "git"
+  depends_on "jpeg-turbo"
+  depends_on "libpng"
+  depends_on "libtiff"
+  depends_on "webp"
 
   resource "smmap" do
     url "https://files.pythonhosted.org/packages/44/cd/a040c4b3119bbe532e5b0732286f805445375489fceaec1f48306068ee3b/smmap-5.0.2.tar.gz"
