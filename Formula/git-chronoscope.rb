@@ -6,8 +6,7 @@ class GitChronoscope < Formula
 
   desc "Generate time-lapse visualizations of Git repository evolution"
   homepage "https://github.com/southpawriter02/git-chronoscope"
-  url "https://github.com/southpawriter02/git-chronoscope.git", branch: "main"
-  version "1.0.0"
+  head "https://github.com/southpawriter02/git-chronoscope.git", branch: "main"
   license "MIT"
 
   depends_on "python@3.11"

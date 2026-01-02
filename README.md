@@ -4,6 +4,8 @@ Homebrew tap for [git-chronoscope](https://github.com/southpawriter02/git-chrono
 
 ## Installation
 
+**Note:** This formula currently installs from the latest development version (HEAD) as there are no stable releases yet. A stable version will be available once the project releases version 1.0.0.
+
 ```bash
 # Add the tap
 brew tap southpawriter02/git-chronoscope
