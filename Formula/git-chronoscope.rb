@@ -6,8 +6,8 @@ class GitChronoscope < Formula
 
   desc "Generate time-lapse visualizations of Git repository evolution"
   homepage "https://github.com/southpawriter02/git-chronoscope"
-  url "https://github.com/southpawriter02/git-chronoscope/archive/refs/tags/v0.9.0-beta.1.tar.gz"
-  sha256 "274966e157311319708db63e1bd3f483f19ca10cbf812135a2e19ebf99893a61"
+  url "https://github.com/southpawriter02/git-chronoscope/archive/refs/tags/v0.9.0-beta.2.tar.gz"
+  sha256 "27046cff4540c66805810a1acc0cefc734a3d946c0460fa9d266fcb29e6f175e"
   license "MIT"
   head "https://github.com/southpawriter02/git-chronoscope.git", branch: "main"
 
